@@ -60,13 +60,6 @@
 
 Essa apresentação serve como uma demonstração básica de algumas funcionalidades e do poder do Visual Studio Code.
 
-Ela se encontra disponível, em:
-
-- [https://github.com/LeonnardoVerol/VSCode-Comecando](https://github.com/LeonnardoVerol/VSCode-Comecando)
-- [https://vscode-comecando.leonnardoverol.com.br](https://vscode-comecando.leonnardoverol.com.br/)
-
-Versão web possível graças ao [VuePress](https://vuepress.vuejs.org/).
-
 # Evolução dos Editores Gráficos
 
 Nos últimos anos eu trabalhei com os 3 editores e acredito que os 3, em sequencia, representam uma evolução [dos editores]. Todos são Cross-Platform.
