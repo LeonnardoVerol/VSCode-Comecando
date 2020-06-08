@@ -117,6 +117,7 @@ Usando o `scroll` do mouse é possível fazer uma seleção múltipla verticalme
 
 ![images/Untitled%2011.png](images/Untitled%2011.png)
 
+Confira a pasta `videos` do repositório para uma pequena demonstração.
 
 # Add Next Occurence
 
